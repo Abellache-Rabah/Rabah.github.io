@@ -13,7 +13,7 @@ title                    : "Rabah / RabahNetworks"
 title_separator          : "-"
 name                     : &name "Rabah"
 description              : &description "personal description"
-url                      : https://abellache-rabah.github.io/Rabah.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://rabahnetworks.com" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Abellache-Rabah/Rabah.github.io"
 
