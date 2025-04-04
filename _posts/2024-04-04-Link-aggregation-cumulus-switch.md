@@ -1,18 +1,18 @@
 ---
-layout: single
-title: '🔀🚀 Isolating Traffic & Ensuring NFS 🖥️ Redundancy'  
-date: 2024-04-04  
-permalink: /posts/2024/04/network-isolation/  
-categories:
-  - blog
+title: "🔀🚀 Isolating Traffic & Ensuring NFS 🖥️ Redundancy with Bonding - Link Aggregation"
+date: 2024-04-04
+permalink: /posts/2024/04/link-aggregation-cumulus-switch/
 tags:
-  - 🌐 Networking  
-  - 🎛️ VLAN  
-  - 📁 NFS  
-  - �� Redundancy  
+  - Networking
+  - VLAN
+  - NFS
+  - Redundancy
+  - Cumulus
+  - Bond
+  - Link Aggregation
 ---
 
-# **👋 Introduction**
+# **👋 Bonding - Link Aggregation cumulus linux / Isolating Traffic / NFS**
 
 ## **🎯 Objective**
 
