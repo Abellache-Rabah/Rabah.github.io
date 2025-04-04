@@ -1,21 +1,22 @@
 ---
-
+layout: single
 title: '🔀🚀 Isolating Traffic & Ensuring NFS 🖥️ Redundancy'  
-date: 2025-04-04  
-permalink: /posts/2025/04/network-isolation/  
+date: 2024-04-04  
+permalink: /posts/2024/04/network-isolation/  
+categories:
+  - blog
 tags:
-- 🌐 Networking  
-- 🎛️ VLAN  
-- 📁 NFS  
-- 🔄 Redundancy  
-
+  - 🌐 Networking  
+  - 🎛️ VLAN  
+  - 📁 NFS  
+  - �� Redundancy  
 ---
 
 # **👋 Introduction**
 
 ## **🎯 Objective**
 
-The goal of this project is to 🔒 isolate traffic between 💻 Machine1 & Machine2 while ensuring both can access the 🗂️ NFS server. Additionally, redundancy is implemented for the server’s 🌐 network interfaces to enhance 🔄 fault tolerance.
+The goal of this project is to 🔒 isolate traffic between 💻 Machine1 & Machine2 while ensuring both can access the 🗂️ NFS server. Additionally, redundancy is implemented for the server's 🌐 network interfaces to enhance 🔄 fault tolerance.
 
 ## **📌 Constraints**
 

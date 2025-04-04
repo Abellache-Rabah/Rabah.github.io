@@ -1,9 +1,16 @@
 ---
-layout: post
+layout: single
 title: "Welcome to My Blog"
-date: 2024-04-04 12:00:00 -0400
-categories: blog
-tags: [welcome, introduction]
+date: 2024-04-04
+categories:
+  - blog
+tags:
+  - welcome
+  - introduction
+  - blog
+header:
+  image: /images/unsplash-image-1.jpg
+  teaser: /images/unsplash-image-1-teaser.jpg
 ---
 
 Welcome to my blog! This is where I'll be sharing my thoughts, experiences, and insights about network architecture, system administration, and security.

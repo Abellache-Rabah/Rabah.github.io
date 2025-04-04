@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Blog Posts"
 permalink: /blog/
 author_profile: true
@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.posts %}
-  {% if post.categories contains 'blog' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %} 
+<div class="grid__wrapper">
+  {% for post in site.posts %}
+    {% if post.categories contains 'blog' or post.tags contains 'blog' %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div> 
